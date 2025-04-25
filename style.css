@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    background-color: #b5e8e8d6;
+}
+
+h2 {
+    color: #343a40;
+}
+
+#taskList .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task-actions button {
+    margin-left: 5px;
+}
+
+.edit-mode {
+    background-color: #fff3cd;
+}
